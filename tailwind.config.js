@@ -6,6 +6,7 @@ module.exports = {
       fontFamily: {
         'outfit': ['Outfit', 'sans-serif'],
         'poppins': ['Poppins', 'sans-serif'],
+        'dm': ['DM Serif Display', 'sans-serif'],
       }
     },
   },
