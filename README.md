@@ -1,1 +1,1 @@
-clone website portfolio whit @jastinxyz
+clone website portfolio whit @JastinXyz
